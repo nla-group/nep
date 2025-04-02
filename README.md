@@ -1,5 +1,5 @@
 # nep
-MATLAB files for "The nonlinear eigenvalue problem" paper 
+MATLAB files for "The nonlinear eigenvalue problem" paper:
 
 ```
 @article{GT17,
